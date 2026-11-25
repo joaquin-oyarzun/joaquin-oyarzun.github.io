@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Candidate in Computational Mathematics, Learning, and Data Science.
 
@@ -18,7 +18,7 @@ selected_papers: false
 social: false
 ---
 
-I am a third-year PhD candidate in **Computational Mathematics, Learning, and Data Science** at the [University of Pavia](https://portale.unipv.it/en), working under the supervision of [Marco Veneroni](https://mate.unipv.it/veneroni/).
+I am a third-year PhD candidate in **Computational Mathematics, Learning, and Data Science** at the [Università di Pavia](https://portale.unipv.it/en), working under the supervision of [Marco Veneroni](https://mate.unipv.it/veneroni/).
 
 My research combines partial differential equations (PDEs) and the calculus of variations to study multiscale systems and their numerical approximation. I am currently extending this work toward continuum mechanics and scientific computing.
 
