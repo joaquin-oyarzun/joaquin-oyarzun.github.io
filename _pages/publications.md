@@ -16,7 +16,7 @@ Analysis of PDEs (well-posedness and regularity), calculus of variations, discre
   J. Oyarzún and M. Veneroni (2026). To appear in *Trends in Mathematics*, Springer Nature. [[arXiv:2609.18351](https://arxiv.org/abs/2609.18351)]
 
 - **Full-Sequence Variational Convergence of the Anisotropic Kirchhoff Network Model to the Bidomain Equations**  
-  J. Oyarzún and M. Veneroni (2026). *Completed manuscript, to be submitted (available upon request).*
+  J. Oyarzún and M. Veneroni (2026). *Completed manuscript, to be submitted.*
 
 ---
 
