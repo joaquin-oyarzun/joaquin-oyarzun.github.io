@@ -6,7 +6,7 @@ subtitle: PhD Candidate in Computational Mathematics, Learning, and Data Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # cámbialo a true si prefieres la foto redonda
   more_info: >
     <p>Department of Mathematics</p>
