@@ -7,15 +7,16 @@ subtitle: PhD Candidate in Computational Mathematics, Learning, and Data Science
 profile:
   align: right
   image: joaquin.png
-  image_circular: false # cámbialo a true si prefieres la foto redonda
- more_info: >
+  image_circular: false
+  more_info: >
     <p><i class="fa-solid fa-location-dot"></i> Pavia, Italy</p>
     <p><i class="fa-solid fa-envelope"></i> <a href="mailto:joaquin.oyarzun01@universitadipavia.it">Email</a></p>
     <p><i class="fa-brands fa-linkedin"></i> <a href="https://www.linkedin.com/in/joaquin-oyarzun/" target="_blank">LinkedIn</a></p>
     <p><i class="ai ai-orcid"></i> <a href="https://orcid.org/0009-0006-1217-0615" target="_blank">ORCID</a></p>
 
 selected_papers: false
-social: false # esto oculta los íconos grandes de abajo
+social: false
+---
 
 selected_papers: false # lo cambiaremos a true cuando subamos tus papers
 social: true # muestra los íconos de contacto abajo
