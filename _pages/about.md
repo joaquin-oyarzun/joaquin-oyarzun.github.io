@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Candidate in Computational Mathematics, Learning, and Data Science.
+subtitle: 
 
 profile:
   align: right
