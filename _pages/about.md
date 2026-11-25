@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in Computational Mathematics, Learning, and Data Science · <a href='https://matematica.unipv.it/'>University of Pavia</a>
+subtitle: PhD Candidate in Computational Mathematics, Learning, and Data Science.
 
 profile:
   align: right
