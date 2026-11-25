@@ -20,6 +20,12 @@ Analysis of PDEs (well-posedness and regularity), calculus of variations, discre
 
 ---
 
+## Thesis
+* **Angle-Bounded Condition for FitzHugh–Nagumo Equations in Cardiac Electrophysiology** [[PDF]](/assets/pdf/master_thesis.pdf) [[Slides]](/assets/pdf/thesis_defense_slides.pdf) [[Summary]](/assets/pdf/master_thesis_summary.pdf)<br>
+Master's Thesis, Pontificia Universidad Católica de Chile (2023). Advisors: Duvan Henao and Manuel Sánchez.
+  
+---
+
 ## Talks
 
 * **From the Kirchhoff Network Model to the Bidomain Model** [[Slides]](/assets/pdf/slides_uoh.pdf) [[Abstract]](/assets/pdf/resumen_uoh.pdf)<br>
