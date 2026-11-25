@@ -15,11 +15,11 @@ In the classroom, I treat mathematics as something students actively do rather t
 ## Teaching Experience
 
 **Università di Pavia**  
-*Teaching Assistant, Department of Mathematics "F. Casorati"* (03/2026 – Present)
+*Teaching Assistant, Department of Mathematics "F. Casorati"* 
 - Mathematical Analysis II (for Civil Engineering, Spring and Autumn 2026)
 
 **Pontificia Universidad Católica de Chile**  
-*Teaching Assistant, Faculty of Mathematics* (08/2021 – 12/2023)
+*Teaching Assistant, Faculty of Mathematics* 
 - Abstract Algebra (for Mathematics Education, Autumn 2023)
 - Multivariable Calculus (for Engineering, Autumn 2023)
 - Integral Calculus (for Mathematics and Mathematics Education, Spring 2023)
@@ -29,11 +29,13 @@ In the classroom, I treat mathematics as something students actively do rather t
 - Algebra and Geometry (for Physics and Astronomy, Autumn 2021)
 
 **Universidad de Chile**  
-*Teaching Assistant, Department of Mathematics* (03/2018 – 12/2020)
+*Teaching Assistant, Department of Mathematics* 
 - Methods and Applications of ODEs (for Chemistry and Biology, Autumn 2020)
 - Linear Algebra and Multivariable Calculus (for Chemistry and Biology, Spring 2020)
-- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018 and 2019)
-- Algebra and Geometry I (for Physics and Mathematics, Spring 2018 and 2019)
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2019)
+- Algebra and Geometry I (for Physics and Mathematics, Spring 2019)
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018)
+- Algebra and Geometry I (for Physics and Mathematics, Spring 2018)
 
 ---
 
