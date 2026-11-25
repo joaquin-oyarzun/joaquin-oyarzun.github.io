@@ -29,6 +29,16 @@ nav_order: 4
             Edinburgh, Scotland
         </div>
     </div>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/gdansk.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Gdańsk, Poland
+        </div>
+    </div>
+</div>
+    
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="lazy" path="assets/img/granada.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
@@ -43,6 +53,14 @@ nav_order: 4
         <div class="caption">
             Lyon, France
         </div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/osaka.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Osaka, Japan
+        </div>
+        
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="lazy" path="assets/img/quebec.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
