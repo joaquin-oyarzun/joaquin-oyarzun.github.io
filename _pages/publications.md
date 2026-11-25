@@ -6,8 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-## Research Interests
-
 Analysis of PDEs (well-posedness and regularity), calculus of variations, discrete-to-continuum limits, numerical approximation of PDEs (*a priori* error estimates), continuum mechanics, cardiac electrophysiology.
 
 ---
