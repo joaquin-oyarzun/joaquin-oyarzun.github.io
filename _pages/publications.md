@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Research interests, publications, preprints, talks, and academic activities.
+title: Research
 nav: true
 nav_order: 1
 ---
