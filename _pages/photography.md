@@ -4,5 +4,5 @@ permalink: /photography/
 title: photography
 description: A small collection of photos from my travels.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
