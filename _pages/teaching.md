@@ -32,9 +32,9 @@ In my classes, mathematics is something students actively do, not passively watc
 *Teaching Assistant, Department of Mathematics — Materials in Spanish* 
 - Methods and Applications of ODEs (for Chemistry and Biology, Autumn 2020) [[Course Materials (Drive)]](https://drive.google.com/drive/u/0/folders/1U28IlCINClnRGTgNYbU6kewnjPco5TJt)
 - Linear Algebra and Multivariable Calculus (for Chemistry and Biology, Spring 2020) [[Course Materials (Drive)]](https://drive.google.com/drive/u/0/folders/1zDAkCAskSkGiX5XS2iRKhpQJ-eFAaWJH)
-- Algebra and Geometry II (for Physics and Mathematics, Autumn 2019) [[Problem Set]](/assets/alg_geo22019.pdf)
-- Algebra and Geometry I (for Physics and Mathematics, Spring 2019) [[Problem Set]](/assets/alg_geo12019.pdf)
-- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018) [[Problem Set]](/assets/alggeo22018_1.pdf)
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2019) [[Problem Set]](/assets/algeo22019.pdf)
+- Algebra and Geometry I (for Physics and Mathematics, Spring 2019) [[Problem Set]](/assets/algeo12019.pdf)
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018) [[Problem Set]](/assets/algeo22018_1.pdf)
 - Algebra and Geometry I (for Physics and Mathematics, Spring 2018) [[Problem Set]](/assets/algeo12018.pdf)
 
 ---
