@@ -22,10 +22,10 @@ Analysis of PDEs (well-posedness and regularity), calculus of variations, discre
 
 ## Talks
 
-* **From the Kirchhoff Network Model (KNM) to the Bidomain Model** [[Slides]](/assets/pdf/slides_uoh.pdf) [[Abstract]](/assets/pdf/resumen_uoh.pdf)
+* **From the Kirchhoff Network Model (KNM) to the Bidomain Model [[Slides]](/assets/pdf/slides_uoh.pdf) [[Abstract]](/assets/pdf/resumen_uoh.pdf)**
   *Seminar on PDEs and Calculus of Variations (Invited)* — Universidad de O’Higgins, Rancagua, Chile (07/2026)
 
-- **Angle-Bounded Condition for FitzHugh–Nagumo Equations in Cardiac Electrophysiology** [[Slides]](/assets/pdf/beamer_somachi.pdf) [[Abstract]](/assets/pdf/somachi_2023.pdf)
+- **Angle-Bounded Condition for FitzHugh–Nagumo Equations in Cardiac Electrophysiology [[Slides]](/assets/pdf/beamer_somachi.pdf) [[Abstract]](/assets/pdf/somachi_2023.pdf)**
   *SOMACHI XCI Annual Meeting* — Mathematical Society of Chile, Punta de Tralca, Chile (12/2023)
 
 - **Exploring a Variational Framework for the Monodomain Model**  
