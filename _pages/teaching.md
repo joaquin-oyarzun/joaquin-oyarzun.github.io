@@ -39,6 +39,7 @@ In the classroom, I treat mathematics as something students actively do rather t
 - Algebra and Geometry I (for Physics and Mathematics, Spring 2019)
 - Algebra and Geometry II (for Physics and Mathematics, Autumn 2018)
 - Algebra and Geometry I (for Physics and Mathematics, Spring 2018)
+  
 ---
 
 ## Pedagogical Training
