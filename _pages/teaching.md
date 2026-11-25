@@ -34,9 +34,10 @@ In the classroom, I treat mathematics as something students actively do rather t
 *Teaching Assistant, Department of Mathematics* (03/2018 – 12/2020)
 - Methods and Applications of ODEs (for Chemistry and Biology, Autumn 2020)
 - Linear Algebra and Multivariable Calculus (for Chemistry and Biology, Spring 2020)
-- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018 and 2019)
-- Algebra and Geometry I (for Physics and Mathematics, Spring 2018 and 2019)
-
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2019)
+- Algebra and Geometry I (for Physics and Mathematics, Spring 2019)
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018)
+- Algebra and Geometry I (for Physics and Mathematics, Spring 2018)
 ---
 
 ## Pedagogical Training
