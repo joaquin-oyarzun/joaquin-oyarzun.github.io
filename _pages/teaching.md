@@ -20,8 +20,8 @@ In my classes, mathematics is something students actively do, not passively watc
 
 **Pontificia Universidad Católica de Chile**  
 *Teaching Assistant, Faculty of Mathematics — Materials in Spanish* 
-- Abstract Algebra (for Mathematics Education, Autumn 2023)
-- Multivariable Calculus (for Engineering, Autumn 2023)
+- Abstract Algebra (for Mathematics Education, Autumn 2023) 
+- Multivariable Calculus (for Engineering, Autumn 2023) [[Course Materials (Drive)]](https://drive.google.com/drive/u/3/folders/1d8KjJfN8Zjx34oL-pqeSfMOo6-V2Krrh)
 - Integral Calculus (for Mathematics and Mathematics Education, Spring 2023) [[Problem Set]](/assets/pdf/calculoII.pdf)
 - Mathematical Methods of Statistics (for Statistics, Spring 2023)
 - Differential Calculus (for Mathematics and Mathematics Education, Autumn 2022) [[Problem Set]](/assets/pdf/calculoI.pdf)
