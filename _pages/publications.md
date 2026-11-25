@@ -39,15 +39,12 @@ Master's Thesis, Pontificia Universidad Católica de Chile (2023). Advisors: Duv
 
 ---
 
-## Poster Presentations
-
-- **Asymptotic Limits of Nonlocal Graph Operators: Deriving the Bidomain Model in Cardiac Electrophysiology via Γ-Convergence** [[Poster]](/assets/pdf/poster_tenerife.pdf)  
-  *Tenerife Nonlocal PDEs Days* — Universidad de La Laguna, Tenerife, Spain (11/2026)
-
-- **Well-Posedness and Convergence of the Kirchhoff Network Model to the Bidomain Equations**  
+### Poster Presentations
+* **Asymptotic Limits of Nonlocal Graph Operators: Deriving the Bidomain Model in Cardiac Electrophysiology via $\Gamma$-Convergence** [[Poster]](/assets/pdf/poster_tenerife.pdf)<br>
+  *Tenerife Nonlocal PDE Days* — Universidad de La Laguna, Tenerife, Spain (11/2026)
+* **Well-Posedness and Convergence of the Kirchhoff Network Model to the Bidomain Equations**<br>
   *Calculus of Variations and Applications to the Real World* — INdAM Meeting, Cortona, Italy (06/2026)
-
-- **Discrete-to-Continuum Limits in Cardiac Electrophysiology**  
+* **Discrete-to-Continuum Limits in Cardiac Electrophysiology**<br>
   *Spring Workshop COMPMAT 2026* — Università di Pavia, Pavia, Italy (05/2026)
 
 ---
@@ -58,7 +55,7 @@ Master's Thesis, Pontificia Universidad Católica de Chile (2023). Advisors: Duv
 - **Valentia Geometrica: Workshop on Geometric Analysis** — Valencia, Spain (04/2026)
 - **2nd Atlantic Conference in Nonlinear PDEs** — Lisbon, Portugal (10/2025)
 - **Variational Analysis of Complex Systems in Materials Science, Physics and Biology** — Trento, Italy (10/2025)
-- **ICAM Wokshop & Spring Workshop COMPMAT** — Pavia, Italy (05/2025)
+- **ICAM Workshop & Spring Workshop COMPMAT** — Pavia, Italy (05/2025)
 - **GNCS-SIAM Chapters Meeting for Young Researchers in Numerical Analysis and Applied Mathematics** — Pavia, Italy (02/2025)
 - **XC Annual Meeting of the Mathematical Society of Chile (SOMACHI)** — Santiago, Chile (12/2022)
 
