@@ -32,7 +32,7 @@ Analysis of PDEs (well-posedness and regularity), calculus of variations, discre
   *SOMACHI XCI Annual Meeting* — Mathematical Society of Chile, Punta de Tralca, Chile (12/2023)
 
 - **Exploring a Variational Framework for the Monodomain Model**  
-  *Seminar on Mathematical Analysis* — Pontificia Universidad Católica de Chile, Santiago, Chile (04/2023)
+  *Seminar on Mathematical Analysis (Invited)* — Pontificia Universidad Católica de Chile, Santiago, Chile (04/2023)
 
 ---
 
@@ -49,11 +49,14 @@ Analysis of PDEs (well-posedness and regularity), calculus of variations, discre
 
 ---
 
-## Selected Conferences and Workshops (Attendance)
+## Conferences and Workshops (Attendance)
 
 - **Machine Learning and PDEs Workshop** — Erlangen, Germany (06/2026)
+- **Valentia Geometrica: Workshop on Geometric Analysis** — Valencia, Spain (04/2026)
 - **2nd Atlantic Conference in Nonlinear PDEs** — Lisbon, Portugal (10/2025)
 - **Variational Analysis of Complex Systems in Materials Science, Physics and Biology** — Trento, Italy (10/2025)
+- **GNCS-SIAM Chapters Meeting for Young Researchers in Numerical Analysis and Applied Mathematics** — Pavia, Italy (02/2025)
+- **XC Annual Meeting of the Mathematical Society of Chile (SOMACHI)** — Santiago, Chile (12/2022)
 
 ---
 
