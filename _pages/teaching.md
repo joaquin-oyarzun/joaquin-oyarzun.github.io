@@ -22,9 +22,9 @@ In my classes, mathematics is something students actively do, not passively watc
 *Teaching Assistant, Faculty of Mathematics — Materials in Spanish* 
 - Abstract Algebra (for Mathematics Education, Autumn 2023) 
 - Multivariable Calculus (for Engineering, Autumn 2023) [[Course Materials (Drive)]](https://drive.google.com/drive/u/3/folders/1d8KjJfN8Zjx34oL-pqeSfMOo6-V2Krrh)
-- Integral Calculus (for Mathematics and Mathematics Education, Spring 2023) [[Problem Set]](/assets/pdf/calculoII.pdf)
+- Integral Calculus (for Mathematics and Mathematics Education, Spring 2023) [[Problem Set]](/assets/calculoII.pdf)
 - Mathematical Methods of Statistics (for Statistics, Spring 2023)
-- Differential Calculus (for Mathematics and Mathematics Education, Autumn 2022) [[Problem Set]](/assets/pdf/calculoI.pdf)
+- Differential Calculus (for Mathematics and Mathematics Education, Autumn 2022) [[Problem Set]](/assets/calculoI.pdf)
 - Linear Algebra (for Engineering, Spring 2022)
 - Algebra and Geometry (for Physics and Astronomy, Autumn 2021)
 
@@ -32,10 +32,10 @@ In my classes, mathematics is something students actively do, not passively watc
 *Teaching Assistant, Department of Mathematics — Materials in Spanish* 
 - Methods and Applications of ODEs (for Chemistry and Biology, Autumn 2020) [[Course Materials (Drive)]](https://drive.google.com/drive/u/0/folders/1U28IlCINClnRGTgNYbU6kewnjPco5TJt)
 - Linear Algebra and Multivariable Calculus (for Chemistry and Biology, Spring 2020) [[Course Materials (Drive)]](https://drive.google.com/drive/u/0/folders/1zDAkCAskSkGiX5XS2iRKhpQJ-eFAaWJH)
-- Algebra and Geometry II (for Physics and Mathematics, Autumn 2019) [[Problem Set]](/assets/pdf/alg_geo22019.pdf)
-- Algebra and Geometry I (for Physics and Mathematics, Spring 2019) [[Problem Set]](/assets/pdf/alg_geo12019.pdf)
-- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018) [[Problem Set]](/assets/pdf/alggeo22018_1.pdf)
-- Algebra and Geometry I (for Physics and Mathematics, Spring 2018) [[Problem Set]](/assets/pdf/algeo12018.pdf)
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2019) [[Problem Set]](/assets/alg_geo22019.pdf)
+- Algebra and Geometry I (for Physics and Mathematics, Spring 2019) [[Problem Set]](/assets/alg_geo12019.pdf)
+- Algebra and Geometry II (for Physics and Mathematics, Autumn 2018) [[Problem Set]](/assets/alggeo22018_1.pdf)
+- Algebra and Geometry I (for Physics and Mathematics, Spring 2018) [[Problem Set]](/assets/algeo12018.pdf)
 
 ---
 
