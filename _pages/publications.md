@@ -6,30 +6,35 @@ nav: true
 nav_order: 1
 ---
 
-Analysis of PDEs (well-posedness and regularity), calculus of variations, discrete-to-continuum limits, numerical approximation of PDEs (*a priori* error estimates), continuum mechanics, cardiac electrophysiology.
+<style>
+  hr { margin: 2rem 0 1.2rem 0; }
+</style>
+
+Analysis of PDEs (well-posedness and regularity), calculus of variations, discrete-to-continuum limits, numerical approximation of PDEs (*a priori* error estimates), continuum mechanics, and cardiac electrophysiology.
 
 ---
 
-## Publications and Preprints
+## Publications and Work in Progress
 
-- **Well-Posedness and Discrete-to-Continuum Convergence of the Kirchhoff Network Model for Cardiac Electrophysiology**  
-  J. Oyarzún and M. Veneroni (2026). To appear in *Trends in Mathematics*, Springer Nature, [[arXiv:2609.18351](https://arxiv.org/abs/2609.18351)].
+- **Well-Posedness and Discrete-to-Continuum Convergence of the Kirchhoff Network Model**  
+  J. Oyarzún and M. Veneroni. To appear in *Trends in Mathematics*, Springer Nature. Preprint: [arXiv:2609.18351](https://arxiv.org/abs/2609.18351) (2026).
 
 - **Full-Sequence Variational Convergence of the Anisotropic Kirchhoff Network Model to the Bidomain Equations**  
-  J. Oyarzún and M. Veneroni (2026). *Completed manuscript, to be submitted.*
+  J. Oyarzún and M. Veneroni. *In preparation.*
 
 ---
 
 ## Thesis
-* **Angle-Bounded Condition for FitzHugh–Nagumo Equations in Cardiac Electrophysiology** [[PDF]](/assets/pdf/master_thesis.pdf) [[Slides]](/assets/pdf/thesis_defense_slides.pdf) [[Summary]](/assets/pdf/master_thesis_summary.pdf)<br>
-Master's Thesis, Pontificia Universidad Católica de Chile (2023). Advisors: Duvan Henao and Manuel Sánchez.
-  
+
+- **Angle-Bounded Condition for FitzHugh–Nagumo Equations in Cardiac Electrophysiology** [[PDF]](/assets/pdf/master_thesis.pdf) [[Slides]](/assets/pdf/thesis_defense_slides.pdf) [[Summary]](/assets/pdf/master_thesis_summary.pdf)<br>
+  Master's Thesis, Pontificia Universidad Católica de Chile (2023). Advisors: Duvan Henao and Manuel Sánchez.
+
 ---
 
 ## Talks
 
-* **From the Kirchhoff Network Model to the Bidomain Model** [[Slides]](/assets/pdf/slides_uoh.pdf) [[Abstract]](/assets/pdf/resumen_uoh.pdf)<br>
- *Seminar on PDEs and Calculus of Variations (Invited)* — Universidad de O’Higgins, Rancagua, Chile (07/2026)
+- **From the Kirchhoff Network Model to the Bidomain Model** [[Slides]](/assets/pdf/slides_uoh.pdf) [[Abstract]](/assets/pdf/resumen_uoh.pdf)<br>
+  *Seminar on PDEs and Calculus of Variations (Invited)* — Universidad de O’Higgins, Rancagua, Chile (07/2026)
 
 - **Angle-Bounded Condition for FitzHugh–Nagumo Equations in Cardiac Electrophysiology** [[Slides]](/assets/pdf/beamer_somachi.pdf) [[Abstract]](/assets/pdf/somachi_2023.pdf)<br>
   *SOMACHI XCI Annual Meeting* — Mathematical Society of Chile, Punta de Tralca, Chile (12/2023)
@@ -39,13 +44,16 @@ Master's Thesis, Pontificia Universidad Católica de Chile (2023). Advisors: Duv
 
 ---
 
-### Poster Presentations
-* **Asymptotic Limits of Nonlocal Graph Operators: Deriving the Bidomain Model in Cardiac Electrophysiology via $\Gamma$-Convergence** [[Poster]](/assets/pdf/poster_tenerife.pdf)<br>
+## Poster Presentations
+
+- **Asymptotic Limits of Nonlocal Graph Operators: Deriving the Bidomain Model in Cardiac Electrophysiology via $\Gamma$-Convergence** [[Poster]](/assets/pdf/poster_tenerife.pdf)<br>
   *Tenerife Nonlocal PDE Days* — Universidad de La Laguna, Tenerife, Spain (11/2026)
-* **Well-Posedness and Convergence of the Kirchhoff Network Model to the Bidomain Equations**<br>
+
+- **Well-Posedness and Convergence of the Kirchhoff Network Model to the Bidomain Equations**<br>
   *Calculus of Variations and Applications to the Real World* — INdAM Meeting, Cortona, Italy (06/2026)
-* **Discrete-to-Continuum Limits in Cardiac Electrophysiology**<br>
-  *Spring Workshop COMPMAT 2026* — Università di Pavia, Pavia, Italy (05/2026)
+
+- **Discrete-to-Continuum Limits in Cardiac Electrophysiology**<br>
+  *COMPMAT Spring Workshop 2026* — Università di Pavia, Pavia, Italy (05/2026)
 
 ---
 
