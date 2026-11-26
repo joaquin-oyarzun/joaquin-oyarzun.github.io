@@ -6,9 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Over eight years as a teaching assistant across three universities in Chile and Italy, I have taught in both Spanish and Italian to diverse audiences: from mathematics, physics, and future high school teachers to engineering, statistics, biology, and chemistry students. My guiding principle is simple: while mathematical rigor should never drop, the way concepts are motivated and explained must adapt to what each group actually needs.
-
-In my classes, mathematics is something students actively do, not passively watch. We move past traditional lecture-style recitations through brainstorm-driven problem solving, collaborative work, and custom problem sets with targeted hints. I also build interactive SageMath applets so students can develop real intuition before tackling formal proofs.
+Over eight years as a teaching assistant across three universities in Chile and Italy, I have taught mathematics in Spanish and Italian to audiences ranging from mathematics and physics majors to engineering, natural sciences, and future high school teachers. My approach pairs mathematical rigor with active problem-solving, relying on custom problem sets with targeted hints, collaborative activities, and interactive SageMath applets to build intuition alongside formal proofs.
 
 ---
 
