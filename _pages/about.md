@@ -18,8 +18,8 @@ selected_papers: false
 social: false
 ---
 
-I am a third-year PhD candidate in **Computational Mathematics, Learning, and Data Science** at the [Università di Pavia](https://portale.unipv.it/en), working under the supervision of [Marco Veneroni](https://mate.unipv.it/veneroni/).
+I am a third-year PhD candidate in **Computational Mathematics, Learning, and Data Science** at the [Università di Pavia](https://portale.unipv.it/en) (expected defense: September 2027), working under the supervision of [Marco Veneroni](https://mate.unipv.it/veneroni/).
 
-My research combines partial differential equations (PDEs) and the calculus of variations to study multiscale systems and their numerical approximation. I am currently extending this work toward continuum mechanics and scientific computing.
+My research combines partial differential equations (PDEs) and the calculus of variations to study multiscale systems and their numerical approximation. In my doctoral work, I focus on discrete-to-continuum limits and convergence rates from the Kirchhoff Network Model (KNM) to the Bidomain equations in cardiac electrophysiology, and I am currently extending this line toward continuum mechanics and scientific computing.
 
 Before starting my doctorate, I obtained my Master's degree at Pontificia Universidad Católica de Chile. Under the supervision of [Duvan Henao](https://sites.google.com/view/duvanhenao/personal-website) and [Manuel Sánchez](https://manuelsanchezuribe.github.io), my thesis analyzed the variational structure and Backward-Euler time discretization of a monodomain FitzHugh–Nagumo system, alongside finite element simulations in Netgen/NGSolve.
