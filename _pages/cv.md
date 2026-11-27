@@ -9,7 +9,7 @@ nav_order: 3
 <html>
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="refresh" content="0; url=/assets/pdf/CV_Joaquin_Oyarzun.pdf">
+    <meta http-equiv="refresh" content="0; url=/assets/pdf/CV.pdf">
     <script>window.location.replace("/assets/pdf/CV.pdf");</script>
     <title>CV</title>
   </head>
