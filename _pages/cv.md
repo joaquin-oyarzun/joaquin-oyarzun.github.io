@@ -14,6 +14,6 @@ nav_order: 3
     <title>CV</title>
   </head>
   <body>
-    <p>If you are not redirected automatically, <a href="/assets/pdf/CV_Joaquin_Oyarzun.pdf">click here to view the CV</a>.</p>
+    <p>If you are not redirected automatically, <a href="/assets/pdf/CV.pdf">click here to view the CV</a>.</p>
   </body>
 </html>
