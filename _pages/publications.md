@@ -10,7 +10,7 @@ nav_order: 1
   hr { margin: 2rem 0 1.2rem 0; }
 </style>
 
-Analysis of PDEs (well-posedness and regularity), calculus of variations, discrete-to-continuum limits, numerical approximation of PDEs (*a priori* error estimates), continuum mechanics, and cardiac electrophysiology.
+Analysis and numerical approximation of PDEs (well-posedness, regularity, *a priori* error estimates), discrete-to-continuum limits, and calculus of variations, with applications to cardiac electrophysiology and continuum mechanics.
 
 ---
 
