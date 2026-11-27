@@ -8,8 +8,7 @@ middle_name:
 last_name: Oyarzún
 description: >
   PhD Candidate in Computational Mathematics, Learning, and Data Science at the University of Pavia.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+footer_text: ""
 keywords: Joaquín Oyarzún, applied mathematics, partial differential equations, PDEs, calculus of variations, numerical analysis, continuum mechanics, scientific computing, University of Pavia
 lang: en
 icon: ♾️ # puedes cambiarlo por 🎓, 📈, 🧮 o poner joaquin.png para usar tu foto
